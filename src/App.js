@@ -3,7 +3,7 @@ import faker from 'faker';
 import Buttons from './components/Buttons';
 import Words from './components/Words';
 import Stats from './components/Stats';
-// import Data from './components/Data';
+
 import './App.css';
 const generateWord = type => {
   const method =
